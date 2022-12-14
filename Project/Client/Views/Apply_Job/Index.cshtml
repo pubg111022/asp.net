@@ -1,0 +1,74 @@
+﻿@model Client.Models.Apply_Job
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="banner-area relative" id="home">
+    <div class="overlay overlay-bg"></div>
+    <div class="container">
+        <div class="row d-flex align-items-center justify-content-center">
+            <div class="about-content col-lg-12">
+                <h1 class="text-white">
+                </h1>
+                <p class="text-white"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.html"> Contact Us</a></p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End banner Area -->
+<!-- Start contact-page Area -->
+<section class="contact-page-area section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 d-flex flex-column">
+                <div class="details">
+                    <div class="title d-flex flex-row justify-content-between">
+                        <div class="titles">
+                            <a href="#"><h4>Contact Info</h4></a>
+                            <br />
+                            <h6>Email</h6>
+                            <br />
+                        </div>
+                    </div>
+                    <p>
+                        vandat97875@gmail.com
+                    </p>
+                    <h5>Phone</h5>
+                    <br />
+                    <p class="address"><span class="lnr lnr-map"></span> 0865493620</p>
+                </div>
+            </div>
+            <div class="col-lg-8">
+
+                <form asp-action="Index" class="form-area contact-form text-left" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Job_id" class="control-label"></label>
+                        <select asp-for="Job_id" class="common-input mb-20 form-control">
+                            <option selected value="@ViewBag.jobs.Id">@ViewBag.jobs.Title</option>
+                        </select>
+                        <span asp-validation-for="Job_id" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="User_Id" class="control-label"></label>
+                        <select asp-for="User_Id" class="common-input mb-20 form-control">
+                            <option selected value="@ViewBag.user.Id">@ViewBag.user.Name</option>
+                        </select>
+                        <span asp-validation-for="User_Id" class="text-danger"></span>
+                    </div>
+                    <div class="form-input">
+                        <label asp-for="CV"></label>
+                        <input type="file" for="Image" name="files" id="chequeno" />
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End contact-page Area -->

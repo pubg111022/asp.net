@@ -1,0 +1,130 @@
+﻿@model Client.Models.User
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sign Up Form by Colorlib</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="~/register_assets/fonts/material-icon/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="~/register_assets/vendor/nouislider/nouislider.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/register_assets/css/style.css">
+</head>
+<body>
+
+    <div class="main">
+
+        <div class="container">
+            <div class="signup-content">
+                <div class="signup-img">
+                    <img src="~/register_assets/images/form-img.jpg" alt="">
+                    <div class="signup-img-content">
+                        <h2>Register now </h2>
+                        <p>while seats are available !</p>
+                    </div>
+                </div>
+                <div class="signup-form">
+                    <form asp-action="Index" method="post" class="register-form" enctype="multipart/form-data" id="register-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <div class="form-input">
+                                    <label asp-for="Name" class="required"></label>
+                                    <input type="text" asp-for="Name" />
+                                    <span asp-validation-for="Name" style="color:red;"></span>
+
+                                </div>
+                                <div class="form-input">
+                                    <label asp-for="Email" class="required"></label>
+                                    <input type="text" asp-for="Email" />
+                                    <span asp-validation-for="Email" style="color:red;"></span>
+
+                                </div>
+                                <div class="form-input">
+                                    <label asp-for="Username" class="required"></label>
+                                    <input type="text" asp-for="Username" />
+                                    <span asp-validation-for="Username" style="color:red;"></span>
+
+                                </div>
+                                <div class="form-input">
+                                    <label asp-for="Phone" class="required"></label>
+                                    <input type="text" asp-for="Phone" />
+                                    <span asp-validation-for="Phone" style="color:red;"></span>
+
+                                </div>
+                                <div class="form-input">
+                                    <label asp-for="Password" class="required"></label>
+                                    <input type="password" asp-for="Password" />
+                                    <span asp-validation-for="Password" style="color:red;"></span>
+
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-select">
+                                    <div class="label-flex">
+                                        <label asp-for="Role"></label>
+                                    </div>
+                                    <div class="select-list">
+                                        <select asp-for="Role" name="Role" style="width:400px;height:40px;text-align:center;font-size:15px;">
+                                            <option value="0" style="text-align:center;font-size:15px;">User</option>
+                                            <option value="1">Enterprise</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-radio">
+                                    <div class="label-flex">
+                                        <label for="payment">Payment Mode</label>
+                                    </div>
+                                    <div class="form-radio-group">
+                                        <div class="form-radio-item">
+                                            <input asp-for="Gender" value="True" type="radio" name="gender" id="cash" checked>
+                                            <label for="cash">Male</label>
+                                            <span class="check"></span>
+                                        </div>
+                                        <div class="form-radio-item">
+                                            <input asp-for="Gender" value="False" type="radio" name="gender" id="cheque">
+                                            <label for="cheque">Female</label>
+                                            <span class="check"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-input">
+                                    <label asp-for="Image"></label>
+                                    <input type="file" for="Image" name="files" id="chequeno" />
+                                </div>
+                                <div class="form-input">
+                                    <label asp-for="Birthday"></label>
+                                    <input type="date" asp-for="Birthday" name="blank_name" id="blank_name" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-submit">
+                            <input type="submit" value="Submit" class="submit" id="submit" name="submit" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- JS -->
+    <script src="~/register_assets/vendor/jquery/jquery.min.js"></script>
+    <script src="~/register_assets/vendor/nouislider/nouislider.min.js"></script>
+    <script src="~/register_assets/vendor/wnumb/wNumb.js"></script>
+    <script src="~/register_assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/register_assets/vendor/jquery-validation/dist/additional-methods.min.js"></script>
+    <script src="~/register_assets/js/main.js"></script>
+    @await Component.InvokeAsync("NToastNotify")
+
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
+<!-- end document-->

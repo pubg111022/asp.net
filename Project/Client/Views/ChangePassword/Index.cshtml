@@ -1,0 +1,66 @@
+﻿@model Client.Models.User
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sign Up Form by Colorlib</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="~/register_assets/fonts/material-icon/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="~/register_assets/vendor/nouislider/nouislider.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/register_assets/css/style.css">
+</head>
+<body>
+
+    <div class="main">
+
+        <div class="container">
+            <div class="signup-content">
+                <div class="signup-img">
+                    <img src="~/register_assets/images/form-img.jpg" alt="">
+                    <div class="signup-img-content">
+                        <h2>Register now </h2>
+                        <p>while seats are available !</p>
+                    </div>
+                </div>
+                <div class="signup-form">
+                    <form asp-action="Forgot" class="register-form" enctype="multipart/form-data" id="register-form">
+                        <div class="form">
+                            <div class="form-group">
+                                <div class="form-input">
+                                    <label asp-for="Email" class="required"></label>
+                                    <input type="text" asp-for="Password" />
+                                </div>
+                                <div class="form-submit">
+                                    <input type="submit" value="Change" class="submit" id="submit" name="submit" />
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- JS -->
+    <script src="~/register_assets/vendor/jquery/jquery.min.js"></script>
+    <script src="~/register_assets/vendor/nouislider/nouislider.min.js"></script>
+    <script src="~/register_assets/vendor/wnumb/wNumb.js"></script>
+    <script src="~/register_assets/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/register_assets/vendor/jquery-validation/dist/additional-methods.min.js"></script>
+    <script src="~/register_assets/js/main.js"></script>
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
+<!-- end document-->

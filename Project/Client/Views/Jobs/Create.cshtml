@@ -1,0 +1,110 @@
+﻿@model Client.Models.Job
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="banner-area relative" id="home">
+    <div class="overlay overlay-bg"></div>
+    <div class="container">
+        <div class="row d-flex align-items-center justify-content-center">
+            <div class="about-content col-lg-12">
+                <h1 class="text-white">
+                    Contact Us
+                </h1>
+                <p class="text-white"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.html"> Contact Us</a></p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End banner Area -->
+<!-- Start contact-page Area -->
+<section class="contact-page-area section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="map-wrap" style="width:100%; height: 445px;" id="map"></div>
+            <div class="col-lg-4 d-flex flex-column">
+                <div class="details">
+                    <div class="title d-flex flex-row justify-content-between">
+                        <div class="titles">
+                            <a href="#"><h4>Contact Info</h4></a>
+                            <br />
+                            <h6>Email</h6>
+                            <br />
+                        </div>
+                    </div>
+                    <p>
+                        vandat97875@gmail.com
+                    </p>
+                    <h5>Phone</h5>
+                    <br />
+                    <p class="address"><span class="lnr lnr-map"></span> 0865493620</p>
+                </div>
+            </div>
+            <div class="col-lg-8">
+
+                <form asp-action="Create" class="form-area contact-form text-left">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Title" class="control-label"></label>
+                        <input asp-for="Title" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Title" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Location" class="control-label"></label>
+                        <input asp-for="Location" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Location" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Department" class="control-label"></label>
+                        <input asp-for="Department" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Department" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Quantity" class="control-label"></label>
+                        <input asp-for="Quantity" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Quantity" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Skill_Level" class="control-label"></label>
+                        <input asp-for="Skill_Level" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Skill_Level" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description" class="control-label"></label>
+                        <input asp-for="Description" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Offer_Salary" class="control-label"></label>
+                        <input asp-for="Offer_Salary" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Offer_Salary" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ExpirationDate" class="control-label"></label>
+                        <input asp-for="ExpirationDate" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="ExpirationDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Category_Id" class="control-label"></label>
+                        <input asp-for="Category_Id" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Category_Id" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="User_Id" class="control-label"></label>
+                        <input asp-for="User_Id" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="User_Id" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Company_Id" class="control-label"></label>
+                        <input asp-for="Company_Id" class="common-input mb-20 form-control" />
+                        <span asp-validation-for="Company_Id" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-default" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End contact-page Area -->

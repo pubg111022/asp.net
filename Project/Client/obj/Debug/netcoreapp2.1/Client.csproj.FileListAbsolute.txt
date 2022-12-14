@@ -1,0 +1,147 @@
+C:\Users\vanda\source\repos\Project\Client\bin\Debug\netcoreapp2.1\Client.deps.json
+C:\Users\vanda\source\repos\Project\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.json
+C:\Users\vanda\source\repos\Project\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.dev.json
+C:\Users\vanda\source\repos\Project\Client\bin\Debug\netcoreapp2.1\Client.dll
+C:\Users\vanda\source\repos\Project\Client\bin\Debug\netcoreapp2.1\Client.pdb
+C:\Users\vanda\source\repos\Project\Client\bin\Debug\netcoreapp2.1\Client.Views.dll
+C:\Users\vanda\source\repos\Project\Client\bin\Debug\netcoreapp2.1\Client.Views.pdb
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorAssemblyInfo.cache
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorAssemblyInfo.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.TagHelpers.input.cache
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.TagHelpers.output.cache
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorCoreGenerate.cache
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorTargetAssemblyInfo.cache
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorTargetAssemblyInfo.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.Views.pdb
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.dll
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.pdb
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.csproj.CopyComplete
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Jobs\Create.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Jobs\Details.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Jobs\Edit.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Jobs\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Error.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Job_Category\Create.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Job_Category\Edit.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Job_Category\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Companies\Create.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Companies\Edit.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Companies\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Jobs\Create.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Jobs\Details.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Jobs\Edit.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Jobs\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Apply_Job\Details.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Apply_Job\Edit.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Apply_Job\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ListJob\Create.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ListJob\Details.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ListJob\Edit.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ListJob\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\MyPost\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Logout\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Index.g.cshtml.cs
+C:\Users\vanda\source\repos\Project\Client\obj\Debug\netcoreapp2.1\Client.csprojAssemblyReference.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\Client.deps.json
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.json
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.dev.json
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\Client.dll
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\Client.pdb
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\Client.Views.dll
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\bin\Debug\netcoreapp2.1\Client.Views.pdb
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfoInputs.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorAssemblyInfo.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorAssemblyInfo.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.TagHelpers.input.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.TagHelpers.output.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorCoreGenerate.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Companies\Create.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Companies\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Companies\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Jobs\Create.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Jobs\Details.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Jobs\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Jobs\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Job_Category\Create.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Job_Category\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Job_Category\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Logout\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Apply_Job\Details.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Apply_Job\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Apply_Job\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Jobs\Details.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Jobs\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ListJob\Create.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ListJob\Details.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ListJob\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ListJob\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\MyPost\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorTargetAssemblyInfo.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.RazorTargetAssemblyInfo.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.Views.pdb
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.dll
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.pdb
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.genruntimeconfig.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.csproj.CopyComplete
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Mail\Apply.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ForgotPassword\Create.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ForgotPassword\Delete.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ForgotPassword\Details.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ForgotPassword\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ForgotPassword\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Mail\ForgotPassword.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ChangePassword\Create.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ChangePassword\Delete.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ChangePassword\Details.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ChangePassword\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\ChangePassword\Index.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Client.csproj.AssemblyReference.cache
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Create.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Delete.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Details.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Edit.cshtml.g.cs
+C:\Users\DatNguyen\Desktop\EProject (1)\EProject\Group1_C2009I12_eProject_Sem3\Project\Client\obj\Debug\netcoreapp2.1\Razor\Views\Profile\Index.cshtml.g.cs
